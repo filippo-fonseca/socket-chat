@@ -1,6 +1,6 @@
 # `socket-chat`
 
-💬 A real-time chat app in socket.io
+💬 A real-time chat app built in socket.io
 
 
 
